@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "PixelmonModSetup",
+        "name": "TourneyPoints",
+        "description": "Sets up pokemon battle tournaments and awards points to players based on performance.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["MusikBox"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
